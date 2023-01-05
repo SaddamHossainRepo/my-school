@@ -1,0 +1,11 @@
+.header a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 20px;
+   
+}
+
+.header{
+    position: sticky;
+    top: 3px;
+}

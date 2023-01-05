@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "pic": "https://www.nea.org/sites/default/files/legacy/2020/04/new_teacher.jpeg",
+        "name": "Jack Daniels",
+        "position": "Senior Supervisor",
+        "qualification": "Phasellus lorem augue, vulputate vel orci id, ultricies aliquet risus."
+    },
+    {
+        "id": 2,
+        "pic": "https://www.workitdaily.com/media-library/a-young-teacher-grades-an-assignment-from-one-of-her-students.jpg?id=22146397&width=2000&height=1500&quality=85&coordinates=49%2C0%2C49%2C0",
+        "name": "Linda Glendell",
+        "position": "Teaching Professor",
+        "qualification": "Phasellus lorem augue, vulputate vel orci id, ultricies aliquet risus."
+        
+    },
+    {
+        "id": 3,
+        "pic": "https://www.gannett-cdn.com/-mm-/e6f5ff966046f4bf939f56e06c17033cdbbc23fc/c=0-229-4500-2771/local/-/media/2017/07/10/USATODAY/USATODAY/636353007248947232-BTS-ELEM-MALE-TEACHERS-1.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp",
+        "name": "Kate Dennings",
+        "position": "Children Diet",
+        "qualification": "Phasellus lorem augue, vulputate vel orci id, ultricies aliquet risus.."
+
+    },
+    {
+        "id": 4,
+        "pic": "https://www.insightintodiversity.com/wp-content/uploads/2022/08/teachers-of-color.png",
+        "name": "Kristof Slinghot",
+        "position": "Management",
+        "qualification": "Phasellus lorem augue, vulputate vel orci id, ultricies aliquet risus.."
+
+    }
+    
+]

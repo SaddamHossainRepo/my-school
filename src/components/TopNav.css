@@ -1,0 +1,19 @@
+.banner{
+    height: 80px;
+    width: 100%;
+     
+}
+
+.logo{
+    height: 90px;
+    position: absolute;
+    top: 0;
+    left: 10px;
+}
+
+.email-phone{
+    position: absolute;
+    top: 5px;
+    margin-bottom: 0;
+    right: 10px;
+}
